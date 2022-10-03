@@ -50,4 +50,9 @@ permet de reoganiser les branches
 
 *git restore --staged*: restore uniquement l'index.
 
+### **Tagging**
+
+permet de marquer un état comme important et de retrouver ces états via leurs étiquettes.
+
+
 
