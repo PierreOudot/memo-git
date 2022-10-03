@@ -46,3 +46,8 @@ permet de reoganiser les branches
 
 *git revert commitID/HEAD+operateur ref relative*: revenir x commit et modifier le repo distant.ajoute un nouveau commit (commit') contenant l'historique des modif.marche sur commit déja push.
 
+*git restore + option+ fichier*: permet d'extraire et de copier un arbre de travail/index depuis une source.
+
+*git restore --staged*: restore uniquement l'index.
+
+
