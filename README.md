@@ -54,5 +54,9 @@ permet de reoganiser les branches
 
 permet de marquer un état comme important et de retrouver ces états via leurs étiquettes.
 
+*git tag version*: si pas d'option -asm = étiquette légère, pas d'info stockées, juste le checksum du commit correspondant 
+
+*git tag -a version -m"message": créer un tag annoté, = objet à part entière, contient toutes infos liées au commit et au créateur.
+
 
 
