@@ -13,7 +13,8 @@
 
 #### 1.7
 
-[Ma carte de visite GitHub](https://www.linkedin.com/in/oudotpierre)
+[Ma carte de visite GitHub](https://github.com/PierreOudot)
+
 
 
 
