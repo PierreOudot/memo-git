@@ -75,4 +75,7 @@ permet de marquer un état comme important et de retrouver ces états via leurs 
 
 le commit qui resoud une issue doit comporter commme message "resolve #id_issue". Après pull request et merge des branches, l'issue sera résolue.
 
+### conflict
+
+les conflict apparaissent lorsque il y a un mismatch pour la même ligne d'un fichier à merge. On resoud les conflicts via l'editeur en ligne de github: on apporte ls modifications et on merge.
 
