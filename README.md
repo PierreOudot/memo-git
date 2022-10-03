@@ -1,5 +1,10 @@
 # **Memo de commandes git**
 
+## **Creation de depot distant**
+
+*git clone + lien repo distant*: copier le repo distant en local
+```convention de nommage des branche: <nom_depot_distant>/<nom_branche>
+
 ## **initialisation de la source local et lien avec le repo distant**
 
 *git init* : initialise le fichier git.init dans le dossier local de travail
