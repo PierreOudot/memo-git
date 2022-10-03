@@ -6,8 +6,4 @@
 
 ![](https://i.imgur.com/sJNcxQk.png "Preuve de travail")
 
-### partie 2
-
-
-
 
