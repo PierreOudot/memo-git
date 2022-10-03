@@ -71,6 +71,8 @@ permet de marquer un état comme important et de retrouver ces états via leurs 
 
 *git tag -d version-lw : supprimme l'étiquette correspondant à version, besoin d'être push pour être validé sur repo distant. utiliser la commande *git push origin version"* pour push le tag
 
+### **gestion des issues**
 
+le commit qui resoud une issue doit comporter commme message "resolve #id_issue". Après pull request et merge des branches, l'issue sera résolue.
 
 
