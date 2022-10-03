@@ -13,7 +13,7 @@
 
 ## **recuperation depuis le depot distant**
 
-*git fetch*: recupère depuis un depot distant, mise à jour des bracnhes distantes
+*git fetch*: recupère depuis un depot distant, mise à jour des bracnhes distante: recupère depuis un depot distant, mise à jour des bracnhes distantesomble le retard de la branche lcoale vs depot distant.
 
 ## **modifications de fichiers**
 
@@ -22,6 +22,7 @@
 
 ## **gestion des branches**
 
+*git push --set-upstream origin nom branche* :connecter la branche locale à sa version distante
 *git branch"nom_branche"*: créer une nouvelle branche
 
 *git checkout nom_branche*: changer de branche (deplace HEAD sur dernier commit de ladite branche).
