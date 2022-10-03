@@ -58,6 +58,8 @@ permet de marquer un état comme important et de retrouver ces états via leurs 
 
 *git tag -a version -m"message": créer un tag annoté, = objet à part entière, contient toutes infos liées au commit et au créateur.
 
-*git tag -d version-lw : supprimme l'étiquette correspondant à version, besoin d'être push pour être validé sur repo distant.
+*git tag -d version-lw : supprimme l'étiquette correspondant à version, besoin d'être push pour être validé sur repo distant. utiliser la commande *git push origin version"* pour push le tag
+
+
 
 
