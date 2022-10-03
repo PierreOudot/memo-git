@@ -4,11 +4,16 @@
 
 *git clone + lien repo distant*: copier le repo distant en local
 ```convention de nommage des branche: <nom_depot_distant>/<nom_branche>
+```nom de repo distant est souvent origin
 
 ## **initialisation de la source local et lien avec le repo distant**
 
 *git init* : initialise le fichier git.init dans le dossier local de travail
 *git add remote origin user@http* : lier init et user distant
+
+## **recuperation depuis le depot distant**
+
+*git fetch*: recupère depuis un depot distant, mise à jour des bracnhes distantes
 
 ## **modifications de fichiers**
 
